@@ -1,0 +1,13 @@
+// app global css in SCSS form
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: monteserrat;
+  src: url("../fonts/monteserrat.ttf");
+}
+
+.monteserrat {
+  font-family: 'monteserrat';
+}
